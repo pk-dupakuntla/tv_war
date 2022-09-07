@@ -1,0 +1,6 @@
+ec\logging\MyServiceLoggingModule.class
+ec\services\MyServiceImpl.class
+ec\api\MyService.class
+ec\jaxrs\DoThisExceptionMapper.class
+ec\webservices\MyWebService.class
+ec\exceptions\DoThisException.class
